@@ -55,7 +55,8 @@
     text-align: center;
     margin: 0 auto;
     margin-right: -50%;
-    background-color: #cdcdcd;
+    /* background-color: #cdcdcd; */
+    background-image: linear-gradient(#DEDCDC,#ffffff);
     border: solid;
     border-color: black;
     /* padding-left: 3%; */
